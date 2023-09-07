@@ -1,1 +1,5 @@
 Creating this File in the newBranch1 Branch. My next step is to check for this txt file in Github. Wait.
+So the updated text all got deleted when I was in the main branch and made changes to this file that is not in main branch.
+Now lets try to push this changes there. 
+
+INTO THE REPO - NEWBRANCH1
