@@ -1,2 +1,1 @@
-Creating this File in the newBranch1 Branch. My next step is to check for this txt file in Github. Wait.
-So here from this main branch I couldnt see this txt file as this is in the newBranch1 branch. Now lets merge this to the main branch.
+This is very confusing yet lets solve this. now I just opened this folder fresh and this file is in the New Branch newBranch1
